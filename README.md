@@ -1,95 +1,19 @@
  
+# 💫 About Me:
+I'm an aspiring Data Analyst looking to obtain a career that combines computer science and sports data analytics. As a sports enthusiast from a young age, I first discovered sports data analytics watching the movie Moneyball. Increasingly I became interested in sports statistics and the impact of data to improve sports performance and avoid injury to players. 
 
- 
 
-v align="center"> <h1 align="center"> Analyst Hi There! I am a Data 👋 </h1> </div> 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cole-samson-97438a28b/) 
 
-<b>Hi, My name is Cole. I am a data professional.<b> 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=colesamson16&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=colesamson16&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=colesamson16&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
- 
+---
+[![](https://visitcount.itsvg.in/api?id=colesamson16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p></p> 
-
-<div align="center"> <h1 align="center" <di > :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div> 
-
- 
-
-<b>I have experience using these data analysis tools.<b> 
-
-<p align="center"> 
-
-<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a> 
-
- 
-
-</p> 
-
- 
-
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div> 
-
- 
-
-<b>I have also experience using these data visualization tools.<b> 
-
- 
-
-<p align="center"> 
-
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="60"/> </a> 
-
-<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a> 
-
-</p> 
-
- 
-
-<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div> 
-
-<b>Lets connect</b> 
-
-<p align="center"> 
-
- 
-
-<a href=""> 
-
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
-
-</a> 
-
- 
-
-<a href=""> 
-
-  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  /> 
-
-</a> 
-
- 
-
-<a href="mailto:">   
-
-  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  /> 
-
-</a> 
-
- 
-
-</p> 
-
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
