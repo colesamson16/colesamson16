@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm an aspiring Data Analyst looking to obtain a career that combines computer science and sports data analytics. As a sports enthusiast from a young age, I first discovered sports data analytics watching the movie Moneyball. Increasingly I became interested in sports statistics and the impact of data to improve sports performance and avoid injury to players.
+I have enjoyed maths and computer science my whole life. I started my further education in Computer Science and then realised that data was my true passion.  I aspire to obtain a career that combines computer science and sports data analytics. As a sports enthusiast from a young age, I first discovered sports data analytics watching the movie Moneyball. Increasingly I became interested in sports statistics and the impact of data to improve sports performance and avoid injury to players.
+
+I am have recently completed a 12-week Data Technician Skills Bootcamp with Just IT Training to improve my skills in data analysis. I am using this as an opportunity to learn new software used in data analysis and improve my data analysis skills.
+
+My aspirations are to work as a Data Analyst. I love solving problems and finding solutions. Likewise, I love how data can be used to make people’s lives better. 
+
 
 
 ## 🌐 Socials:
